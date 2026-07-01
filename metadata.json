@@ -1,0 +1,6 @@
+{
+  "name": "Generative Model Visualizer",
+  "description": "An interactive playground to visualize how Diffusion, VAE, GAN, Auto-Encoder, Vector Quantization, and Auto-Regressive models process data through their forward passes in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
